@@ -1,0 +1,8 @@
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\bin\Debug\FitFunctions.dll
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\bin\Debug\FitFunctions.pdb
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\obj\Debug\FitFunctions.Properties.FitFunctionPictures.resources
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\obj\Debug\FitFunctions.dll
+C:\Documents and Settings\Евгений\мои документы\visual studio 2010\Projects\SemiFit\FitFunctions\obj\Debug\FitFunctions.pdb
