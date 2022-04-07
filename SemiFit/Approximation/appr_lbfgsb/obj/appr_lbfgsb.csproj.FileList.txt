@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\appr_lbfgsb.dll
+bin\Debug\appr_lbfgsb.pdb
+bin\Debug\CommonEngineDefinitions.dll
+bin\Debug\CommonEngineDefinitions.pdb
+obj\Debug\appr_lbfgsb.dll
+obj\Debug\appr_lbfgsb.pdb

@@ -1,0 +1,7 @@
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\bin\Release\appr_lbfgsb.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\bin\Release\appr_lbfgsb.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\bin\Release\CommonEngineDefinitions.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\bin\Release\CommonEngineDefinitions.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\obj\Release\appr_lbfgsb.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_lbfgsb\obj\Release\appr_lbfgsb.pdb

@@ -1,0 +1,1 @@
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevenbergMarquardt\obj\Debug\ResolveAssemblyReference.cache
