@@ -1,0 +1,52 @@
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\obj\Debug\PLQuench.fPLFitter.resources
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\obj\Debug\PLQuench.Properties.Resources.resources
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\obj\Debug\PLQuench.csproj.GenerateResource.Cache
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\bin\Debug\PLQuench.exe
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\bin\Debug\PLQuench.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\bin\Debug\TeeChart.Lite.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\bin\Debug\TeeChart.Lite.xml
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\obj\Debug\PLQuench.exe
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\obj\Debug\PLQuench.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\bin\Debug\GeneralMatrix.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2005\Projects\PLQuench\PLQuench\bin\Debug\GeneralMatrix.pdb
+H:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.exe
+H:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.pdb
+H:\VS Projects\PLQuench\PLQuench\bin\Debug\PLQuench.exe
+H:\VS Projects\PLQuench\PLQuench\bin\Debug\PLQuench.pdb
+H:\VS Projects\PLQuench\PLQuench\bin\Debug\GeneralMatrix.dll
+H:\VS Projects\PLQuench\PLQuench\bin\Debug\TeeChart.Lite.xml
+H:\VS Projects\PLQuench\PLQuench\bin\Debug\GeneralMatrix.pdb
+H:\VS Projects\PLQuench\PLQuench\obj\Debug\ResolveAssemblyReference.cache
+H:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.fPLFitter.resources
+H:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.Properties.Resources.resources
+H:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.csproj.GenerateResource.Cache
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.exe
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\ResolveAssemblyReference.cache
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.fPLFitter.resources
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.Properties.Resources.resources
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.csproj.GenerateResource.Cache
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\PLQuench.exe
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\PLQuench.pdb
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\GeneralMatrix.dll
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\TeeChart.Lite.xml
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\GeneralMatrix.pdb
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.pdb
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\CommonEngineDefinitions.dll
+L:\VS Projects\PLQuench\PLQuench\bin\Debug\CommonEngineDefinitions.pdb
+L:\VS Projects\PLQuench\PLQuench\obj\Debug\PLQuench.fParameterUI.resources
+L:\VS Projects\PLQuench\PLQuench\obj\Release\ResolveAssemblyReference.cache
+L:\VS Projects\PLQuench\PLQuench\obj\Release\PLQuench.fParameterUI.resources
+L:\VS Projects\PLQuench\PLQuench\obj\Release\PLQuench.fPLFitter.resources
+L:\VS Projects\PLQuench\PLQuench\obj\Release\PLQuench.Properties.Resources.resources
+L:\VS Projects\PLQuench\PLQuench\obj\Release\PLQuench.csproj.GenerateResource.Cache
+L:\VS Projects\PLQuench\PLQuench\bin\Release\PLQuench.exe
+L:\VS Projects\PLQuench\PLQuench\bin\Release\PLQuench.pdb
+L:\VS Projects\PLQuench\PLQuench\bin\Release\CommonEngineDefinitions.dll
+L:\VS Projects\PLQuench\PLQuench\bin\Release\GeneralMatrix.dll
+L:\VS Projects\PLQuench\PLQuench\bin\Release\TeeChart.Lite.dll
+L:\VS Projects\PLQuench\PLQuench\bin\Release\TeeChart.Lite.xml
+L:\VS Projects\PLQuench\PLQuench\bin\Release\GeneralMatrix.xml
+L:\VS Projects\PLQuench\PLQuench\bin\Release\CommonEngineDefinitions.pdb
+L:\VS Projects\PLQuench\PLQuench\obj\Release\PLQuench.exe
+L:\VS Projects\PLQuench\PLQuench\obj\Release\PLQuench.pdb
