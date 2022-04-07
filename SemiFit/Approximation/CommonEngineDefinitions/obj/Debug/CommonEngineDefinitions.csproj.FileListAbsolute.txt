@@ -1,0 +1,5 @@
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\CommonEngineDefinitions\bin\Debug\CommonEngineDefinitions.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\CommonEngineDefinitions\bin\Debug\CommonEngineDefinitions.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\CommonEngineDefinitions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\CommonEngineDefinitions\obj\Debug\CommonEngineDefinitions.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\CommonEngineDefinitions\obj\Debug\CommonEngineDefinitions.pdb

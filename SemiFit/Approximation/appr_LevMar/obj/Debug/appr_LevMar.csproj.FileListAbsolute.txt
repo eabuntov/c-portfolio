@@ -1,0 +1,7 @@
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\bin\Debug\appr_LevMar.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\bin\Debug\appr_LevMar.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\bin\Debug\CommonEngineDefinitions.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\bin\Debug\CommonEngineDefinitions.pdb
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\obj\Debug\appr_LevMar.dll
+C:\Documents and Settings\Евгений\Мои документы\Visual Studio 2010\Projects\SemiFit\Approximation\appr_LevMar\obj\Debug\appr_LevMar.pdb

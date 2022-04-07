@@ -1,0 +1,5 @@
+bin\Debug\CommonEngineDefinitions.dll
+bin\Debug\CommonEngineDefinitions.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CommonEngineDefinitions.dll
+obj\Debug\CommonEngineDefinitions.pdb
